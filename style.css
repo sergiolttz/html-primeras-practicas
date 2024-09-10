@@ -9,3 +9,13 @@ ul {
 div h3 {
     color: aqua;
 }
+
+/* selector por clases */
+
+.texto {
+    color: greenyellow;
+}
+
+#cebolla{
+    color: red;
+}
